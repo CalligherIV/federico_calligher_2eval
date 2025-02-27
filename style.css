@@ -1,0 +1,102 @@
+*{
+    background-color: rgb(224, 224, 97);
+}
+
+h1 {
+    background-color: rgb(255, 155, 118);
+    text-align: center;
+    height: 65px;
+}
+
+h1 a {
+    background-color: rgb(255, 155, 118);
+    text-decoration: none;
+    color: white;
+    text-shadow: orangered 4px 4px;
+}
+
+p.enlaces {
+
+    background-color: rgb(255, 255, 63);
+    text-align: center;
+    
+}
+
+p a {
+    background-color: rgb(255, 155, 118);
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+
+p.enlaces a:hover {
+    background-color: red;
+}
+
+.descripcion {
+    text-align: center;
+    margin-top: 10%;
+    background-color: rgb(255, 155, 118);
+    padding-bottom: 150px;
+    color: brown;
+    text-decoration: underline;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.pie {
+    margin-top: 20%;
+    background-color: rgb(255, 255, 63);
+    text-align: center;
+    color: brown;
+}
+
+div.familia {
+    background-color: rgb(255, 155, 118);
+    margin-left: 50%;
+    margin-right: 10%;
+    margin-top: 5%;
+    color: white;
+}
+
+.familia p {
+    background-color: rgb(255, 155, 118);
+}
+
+.familia form {
+    background-color: rgb(255, 155, 118);
+}
+
+form label {
+    background-color: rgb(255, 155, 118);
+}
+
+form input {
+    background-color: white;
+}
+
+iframe {
+    float: left;
+    margin-left: 5%;
+}
+
+h2 {
+    color: brown;
+    font-size: 30px;
+    text-align: center;
+}
+
+ol {
+    margin-left: 45%;
+    margin-right: 55%;
+    color: brown;
+    font-size: 20px;
+
+}
+
+ol.roman {
+    list-style: upper-roman;
+}
+
